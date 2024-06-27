@@ -55,7 +55,7 @@ body {
   border: 1px solid #fdefe6;
   border-radius: 40%;
 }
-label{
+label {
   display: none;
 }
 #click {
@@ -81,7 +81,6 @@ label{
   font-size: 12rem;
   line-height: -5;
   color: #fdefe6;
-
 }
 .text-span {
   display: block;
