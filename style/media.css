@@ -514,6 +514,13 @@
   .hero {
     height: 60vh;
 }
+.nav-links {
+
+
+  height: 60vh;
+ 
+}
+}
 
 @media (max-width: 400px) {
   .img-1 {
